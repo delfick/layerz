@@ -1,0 +1,5 @@
+*.pyc
+*.egg-info/
+docs/sphinx/venv
+docs/sphinx/_build
+.tox/
