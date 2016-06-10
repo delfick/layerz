@@ -3,3 +3,5 @@
 docs/sphinx/venv
 docs/sphinx/_build
 .tox/
+dist/
+__pycache__/
