@@ -3,6 +3,11 @@ Layerz
 
 A simple module for creating layers of dependencies.
 
+Deprecated
+----------
+
+This project has been deprecated in favour of https://github.com/delfick/delfick_project
+
 Installation
 ------------
 
